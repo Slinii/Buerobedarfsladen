@@ -1,0 +1,99 @@
+/* CSS Document */
+
+body {
+background-color: #FFF0D0; 
+}
+
+h1 {
+color: #0050A0; 
+}
+
+h2 {
+color: #00A0D0; 
+}
+
+b {
+color: #FFC030;
+}
+
+p {
+color: #FF9030;
+}
+
+a:link {
+color: #3333FF;
+}
+
+a:visited  {
+color: #9933CC;
+}
+
+a:active   {
+color: #99CCFF;
+}
+
+a:hover  {
+color: #FFFFFF;
+background-color: #727272; 
+}
+
+table, th, td {
+border: 1px solid #3E3E3D;       
+border-spacing: 0px;   
+}
+ 
+th {
+color: #FFFFFF;
+background-color: #3E3E3D;
+}
+    
+td {
+color: #FFFFFF;
+background-color: #868686;
+}
+
+header {
+border: 1px solid #3E3E3D;
+background-color: #eb9d0c;
+border-radius: 20px;
+padding: 10px;
+margin: 5px;
+
+}
+
+nav {   
+border: 1px solid #3E3E3D;
+background-color: #f1af64;
+border-radius: 20px;
+padding: 10px;
+margin: 5px;
+}
+
+main {
+border: 1px solid #3E3E3D;
+background-color: #eeb471;
+border-radius: 20px;
+padding: 10px;
+margin: 5px;
+height: 630;
+}
+
+footer {
+border: 1px solid #3E3E3D;
+background-color: #eecfa7;
+border-radius: 20px;
+padding: 10px;
+margin: 5px;
+}
+
+iframe {
+    border: none; /*Unterdrückt den Ramen*/
+    height: 630px;
+    width: 100%;
+}
+
+.Hintergrund  { 
+    background-color:  #eeb471;
+}
+
+
